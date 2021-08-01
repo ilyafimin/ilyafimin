@@ -2,8 +2,6 @@
 
 [![Website](https://www.codewars.com/users/ilya_fimin/badges/small)](https://www.codewars.com/users/ilya_fimin)
 
-<br />
-
 ### My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyafimin)](https://github.com/ilyafimin)
