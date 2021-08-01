@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm ILya 👋
 
-[![Website](https://www.codewars.com/users/ilya_fimin/badges/large)](https://codestackr.com)
+[![Website](https://www.codewars.com/users/ilya_fimin/badges/small)](https://codestackr.com)
 
 <br />
 
