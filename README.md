@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm ILya 👋
+### 👋 Hi there, I'm Ilya 👋
 
 [![Website](https://www.codewars.com/users/ilya_fimin/badges/small)](https://www.codewars.com/users/ilya_fimin)
 
